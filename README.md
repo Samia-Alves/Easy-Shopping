@@ -7,7 +7,8 @@
 <br>
 <br>
 <br>
-<h4>Projeto feito com</h4>
+<h4>Projeto feito usando:</h4>
 <al>HTML</al>
 <br>
 <al>CSS</al>
+<img src="https://github.com/Samia-Alves/Easy-Shopping/blob/main/Projeto%201%20CSS/assets/Desktop.png?raw=true"/>
